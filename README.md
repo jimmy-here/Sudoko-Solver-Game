@@ -35,14 +35,14 @@
 
 ##### 4X4 Sudoku:
 
-<img src="4X4.png" width="750" height="380"/>
+<img src="4X4.png" "/>
 
 ##### 9X9 Sudoku:
 
-<img src="9X9.png" width="750" height="380"/>
+<img src="9X9.png" "/>
 
 ##### 12X12 Sudoku:
 
-<img src="12X12.png" width="750" height="380"/>
+<img src="12X12.png" "/>
 
 
